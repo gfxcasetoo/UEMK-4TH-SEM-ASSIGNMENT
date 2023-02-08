@@ -1,18 +1,20 @@
-# UEM 4th Sem
+# UEMK 4TH SEM ASSIGNMENT
 
-## AIML Lab :brain:
+## AIML LAB
 
-| No. | Assignment                                   |
+[Question Link](https://drive.google.com/file/d/1BSitK3FHdX_Sl4C9c0-iRBm7Ru5t7xcZ/view?usp=share_link)
+
+| Week No. | Assignment                                   |
 | --- | -------------------------------------------- |
-| #1  | [Assignment 1](./AIML/assignment1/family.pl) |
-| #2  | [Assignment 2](./AIML/assignment2)           |
-| #3  | [Assignment 3](./AIML/assignment3)           |
+| 1  | [Assignment 1](./AIML/assignment1/family.pl) |
+| 2  | [Assignment 2](./AIML/assignment2)           |
+| 3  | [Assignment 3](./AIML/assignment3)           |
 
 ---
 
-## OS Lab :penguin:
+## OS LAB
 
-:question: [Question Link](https://drive.google.com/file/d/15o1MAmkMAReHyUHMT7VpRWZTr7DARHP_/view?usp=drivesdk)
+[Question Link](https://drive.google.com/file/d/17MxgDsLVDPoPEoon55J599KKZPXzxvXB/view?usp=share_link)
 
 | Week   | Assignments                                                              |
 | ------ | ------------------------------------------------------------------------ |
@@ -23,9 +25,9 @@
 
 ---
 
-## DAA Lab :trollface: :trollface:
+## DAA LAB
 
-:question: [Question Link](https://drive.google.com/file/d/1SKvDe8jgySiOxUjLt8G6e-yr7ajdNLxd/view?usp=share_link)
+[Question Link](https://drive.google.com/file/d/1MhDk2XirLLvsDXJI_pgzFEayC_k6YcIm/view?usp=share_link)
 
 | Topic                 | Assignments                               |
 | --------------------- | ----------------------------------------- |
@@ -34,8 +36,10 @@
 
 ---
 
-## COA Lab :zero: :one:
+## COA LAB
+
+[Question Link](https://drive.google.com/file/d/1-7jP0Z2jgy9MR66dVtWu6NcOBSIdX3wi/view?usp=share_link)
 
 | Hardware                                                                                               | Software                         |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------- |
-| [Shift Registers](https://drive.google.com/file/d/11cb8rPVw17eLTPiN5-_xJglYm9hL7dhI/view?usp=drivesdk) | [Basic Gates](./COA/basic_gates) |
+| [Shift Registers](https://drive.google.com/file/d/1R6YaA5P3Vb5LrckTFdU1n0yfpNnh8VIs/view?usp=share_link) | [Basic Gates](./COA/basic_gates) |
