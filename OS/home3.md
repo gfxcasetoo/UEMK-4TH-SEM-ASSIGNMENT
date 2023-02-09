@@ -173,12 +173,12 @@ _ii. in your cs330 lab directory create three new directories named 'weather', '
 
 ```bash
 if [ ! -d cs330_lab ]; then
-  $ mkdir cs330_lab
+  mkdir cs330_lab
 fi
-$ cd cs330_lab
-$ mkdir weather
-$ mkdir assignment
-$ mkdir web
+cd cs330_lab
+mkdir weather
+mkdir assignment
+mkdir web
 ```
 
 _iii. change the permissions of the directory 'web' to -rwxr-xr-x using the octal form of chmod_ <br>
