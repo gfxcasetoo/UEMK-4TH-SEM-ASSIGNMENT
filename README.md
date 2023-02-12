@@ -42,4 +42,5 @@
 
 | Hardware                                                                                               | Software                         |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------- |
-| [Shift Registers](https://drive.google.com/file/d/1R6YaA5P3Vb5LrckTFdU1n0yfpNnh8VIs/view?usp=share_link) | [Basic Gates](./COA/basic_gates) [OUTPUT](https://drive.google.com/file/d/1_ajgeoDJ0zg69wK7a348MUoEkiFX-kgq/view?usp=share_link) |
+| [Shift Registers](https://drive.google.com/file/d/1R6YaA5P3Vb5LrckTFdU1n0yfpNnh8VIs/view?usp=share_link) | [Basic Gates](./COA/basic_gates) 
+|                                                                                                          | [OUTPUT](https://drive.google.com/file/d/1_ajgeoDJ0zg69wK7a348MUoEkiFX-kgq/view?usp=share_link) |
