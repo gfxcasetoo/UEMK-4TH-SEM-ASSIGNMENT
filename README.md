@@ -2,6 +2,8 @@
 
 ## AIML LAB
 
+[Question Link](https://drive.google.com/file/d/1BSitK3FHdX_Sl4C9c0-iRBm7Ru5t7xcZ/view?usp=share_link)
+
 | No. | Assignment                                                                                                  |
 | --- | ----------------------------------------------------------------------------------------------------------- |
 | 1  | [Assignment 1](./AIML/assignment1/family.pl)                                                                |
@@ -43,7 +45,7 @@
 
 | Hardware                                                                                                            | Software                                      |
 | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [Shift Registers](https://drive.google.com/file/d/11cb8rPVw17eLTPiN5-_xJglYm9hL7dhI/view?usp=drivesdk)              | [Basic Gates](./COA/basic_gates/)             |
+| [Shift Registers](https://drive.google.com/file/d/11cb8rPVw17eLTPiN5-_xJglYm9hL7dhI/view?usp=drivesdk)              | [Basic Gates](./COA/basic_gates/)<br> [Output](https://drive.google.com/file/d/1_ajgeoDJ0zg69wK7a348MUoEkiFX-kgq/view?usp=share_link)             |
 | [Composite Adder-Subtractor](https://drive.google.com/file/d/1BzE1bD-5IZCuFdgcreYjnneT7GK0JuEF/view?usp=share_link) | [Adder & Subtractor](./COA/adder_subtractor/) |
 
 
