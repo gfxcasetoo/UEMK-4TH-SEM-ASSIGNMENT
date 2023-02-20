@@ -45,8 +45,8 @@
 
 | Hardware                                                                                                            | Software                                      |
 | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [Shift Registers](https://drive.google.com/file/d/11cb8rPVw17eLTPiN5-_xJglYm9hL7dhI/view?usp=drivesdk)              | [Basic Gates](./COA/basic_gates/)<br> [Output](https://drive.google.com/file/d/1_ajgeoDJ0zg69wK7a348MUoEkiFX-kgq/view?usp=share_link)             |
-| [Composite Adder-Subtractor](https://drive.google.com/file/d/1BzE1bD-5IZCuFdgcreYjnneT7GK0JuEF/view?usp=share_link) | [Adder & Subtractor](./COA/adder_subtractor/) |
+| [Shift Registers](https://drive.google.com/file/d/1R6YaA5P3Vb5LrckTFdU1n0yfpNnh8VIs/view?usp=share_link)              | [Basic Gates](./COA/basic_gates/)<br> [Output](https://drive.google.com/file/d/1_ajgeoDJ0zg69wK7a348MUoEkiFX-kgq/view?usp=share_link)             |
+| [Composite Adder-Subtractor](https://drive.google.com/file/d/1SBKbrfpjqVnBf5BaD6Car8TdWJNDkXML/view?usp=share_link) | [Adder & Subtractor](./COA/adder_subtractor/) |
 
 
 ## Organizational Behaviour
