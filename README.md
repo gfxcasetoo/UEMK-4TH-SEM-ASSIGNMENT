@@ -53,4 +53,4 @@
 
 | No. | Assignment                                |
 | --- | ----------------------------------------- |
-| #1  | [Assignment 1](./OrgBehav/assignment1.md) |
+|  1  | [Assignment 1](./OrgBehav/assignment1.md) |
