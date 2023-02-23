@@ -6,10 +6,11 @@
 
 | No. | Assignment                                                                                                  |
 | --- | ----------------------------------------------------------------------------------------------------------- |
-| 1  | [Assignment 1](./AIML/assignment1/family.pl)                                                                |
-| 2  | [Assignment 2](./AIML/assignment2)                                                                          |
-| 3  | [Assignment 3](./AIML/assignment3)                                                                          |
-| 4  | [Assignment 4](./AIML/assignment4)                                                                          |
+|  1  | [Assignment 1](./AIML/assignment1/family.pl)                                                                |
+|  2  | [Assignment 2](./AIML/assignment2)                                                                          |
+|  3  | [Assignment 3](./AIML/assignment3)                                                                          |
+|  4  | [Assignment 4](./AIML/assignment4)                                                                          |
+|  5  | [Assignment 5](./AIML/assignment5)                                                                          |
 
 ---
 
@@ -24,6 +25,7 @@
 | Week 3 | [Lab Assignment 3](./OS/lab3.md) <br> [Home Assignment 3](./OS/home3.md) |
 | Week 4 | [Lab Assignment 4](./OS/lab4.md)                                         |
 | Week 5 | [Lab Assignment 5](./OS/lab5.md) <br> [Home Assignment 5](./OS/home5.md) |
+| Week 6 | [Lab Assignment 6](./OS/assignment6/lab6.md) <br> [Home Assignment 6](./OS/assignment6/home6.md) |
 
 ---
 
@@ -36,7 +38,7 @@
 | Searching and Sorting | [Assignment 1](./DAA/assignment1/ass1.md) |
 | Divide & Conquer I    | [Assignment 2](./DAA/assignment2/ass2.md) |
 | Divide & Conquer II   | [Assignment 3](./DAA/assignment3/) |
-
+| Greedy Method I       | [Assignment 4](./DAA/assignment4/) |
 ---
 
 ## COA LAB
